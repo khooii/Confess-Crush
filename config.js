@@ -17,5 +17,5 @@
     mess: 'Khooi biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối công chúa của mình ngủ ngon nka :333.',
     btnAccept: 'dzaaaa bb cũng ngủ ngon nka <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100073533376934 
+    messLink: 'https://www.facebook.com/profile.php?id=100073533376934' 
 }
