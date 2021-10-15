@@ -15,5 +15,4 @@ const CONFIG = {https://www.facebook.com/profile.php?id=100073533376934
     reply: 'Yêu thì yêu khôi mà không yêu thì yêu khooi <33333333',
     mess: 'Khooi biết mà 🥰. Athuu yeu khooi nhiều nhiều 😘😘',
     messDesc: 'Tối công chúa của mình ngủ ngon nka :333.',
-    btnAccept: 'Dzaaaaaa bb cũng d nka <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100073533376934'
+    btnAccept: 'Dzaaaaaa bb cũng d nka <3','}
