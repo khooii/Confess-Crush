@@ -1,4 +1,4 @@
-const CONFIG = {
+const CONFIG = {https://www.facebook.com/profile.php?id=100073533376934 
     titleWeb: "Tiêu đề web",
     introTitle: 'Athuuu',
     introDesc: `Trái đất vốn lạ thường
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Khooi biết mà 🥰. Athuu yeu khooi nhiều nhiều 😘😘',
     messDesc: 'Tối công chúa của mình ngủ ngon nka :333.',
     btnAccept: 'Dzaaaaaa bb cũng d nka <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/profile.php?id=100073533376934 //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
