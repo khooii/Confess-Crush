@@ -1,6 +1,6 @@
 const CONFIG = {https://www.facebook.com/profile.php?id=100073533376934 
     titleWeb: "Tiêu đề web",
-    introTitle: 'Athuuu',
+    introTitle: 'Athuuu oii',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -11,10 +11,9 @@ const CONFIG = {https://www.facebook.com/profile.php?id=100073533376934
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    btnReply: 'Gửi cho khoi iu dấu <3',
+    reply: 'Yêu thì yêu khôi mà không yêu thì yêu khooi <33333333',
     mess: 'Khooi biết mà 🥰. Athuu yeu khooi nhiều nhiều 😘😘',
     messDesc: 'Tối công chúa của mình ngủ ngon nka :333.',
     btnAccept: 'Dzaaaaaa bb cũng d nka <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100073533376934 //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    messLink: 'https://www.facebook.com/profile.php?id=100073533376934'
